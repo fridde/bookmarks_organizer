@@ -1,0 +1,10 @@
+bookmark_paths:
+    local_bookmarks_file: 'my_bookmarks.json'
+    firefox: '/mnt/c/Users/MyComputer/AppData/Roaming/Mozilla/Firefox/Profiles/a1b2c3d4.default-release/'
+    chrome:  '/mnt/c/Users/MyComputer/AppData/Local/Google/Chrome/User Data/Default/'
+
+ftp:
+    server: 'ftp.example.org'
+    folder: 'bookmarks'
+    user: 'ftp_user'
+    password: 'abcdefgh'
